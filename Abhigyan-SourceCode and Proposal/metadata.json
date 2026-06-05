@@ -1,0 +1,10 @@
+{
+  "name": "FaceGuard Offline AI",
+  "description": "Offline facial recognition and liveness detection system for zero-network areas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
