@@ -2,6 +2,12 @@
 **Offline-First Edge AI Facial Recognition & Liveness Detection System**
 *Architected by Pratyaksh and Sanskar*
 
+> [!IMPORTANT]
+> **Hackathon Submission Notice:**
+> Due to strict file size limits on the hackathon submission portal (max 25 MB), the compiled APK files and high-resolution application flow screenshots have been hosted directly in this GitHub repository to maintain proposal zip size requirements.
+> * **Download APKs:** Available on the **[GitHub Releases Page](https://github.com/Pratyaksh3142/Abhigyan/releases)** or inside the **[APKs directory](https://github.com/Pratyaksh3142/Abhigyan/tree/main/Abhigyan-SourceCode%20and%20Proposal/APKs)**.
+> * **View App Flow Screenshots:** Available in the **[Screenshots directory](https://github.com/Pratyaksh3142/Abhigyan/tree/main/Screenshots)**.
+
 Abhigyan (Sanskrit for "Identification") is a mobile-based secure facial recognition system designed specifically for extreme remote environments. Built for Hackathon 7.0, it performs instantaneous biometric verification and 3D liveness detection without requiring an active internet connection.
 
 ## 🎯 The Challenge
